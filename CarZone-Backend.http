@@ -1,0 +1,6 @@
+@CarZone_Backend_HostAddress = http://localhost:5168
+
+GET {{CarZone_Backend_HostAddress}}/api/AuthWeb/xhtlekd
+Accept: application/json
+
+###
